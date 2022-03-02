@@ -22,3 +22,4 @@ In addition to formal education, I continuously seek qualification through onlin
 Finally, I am really passionate about technological innovation and research, especially when it comes to artificial inteligence. I consider myself a very motivated person, with good communication skills, strong will to learn and with an open mind for new opportunities and experiences. 
 
 CV Lattes: http://lattes.cnpq.br/8805803952486235
+LinkedIn profile: https://www.linkedin.com/in/amanda-mendes-2aa694197
