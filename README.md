@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am an undergraduate student in Computer Engineering at the Federal University of Rio Grande (FURG) and I have a technical degree in Industrial Automation from the Federal Institute of Rio Grande do Sul (IFRS).
 In addition to formal education, I continuously seek qualification through online courses as well as engagement with projects. For four years of the technical course, I developed software in research projects, which aroused my interest in fields like artificial intelligence and machine learning. Currently, at the university, I work with research and development of deep learning models for ASTRAL project (https://www.astral-project.eu/).
 
-I am really passionate about technological innovation and research, especially when it comes to machine learning. I consider myself a very motivated person, with good communication skills, a strong will to learn, and with an open mind for new opportunities and experiences.
+I am really passionate about technological innovation and research, especially when it comes to machine learning. Also, I am a very motivated person, with good communication skills, a strong will to learn, and with an open mind for new opportunities and experiences.
 
 
 Finally, if you are interested in my academic experiences (projects, courses, etc) you can check my repositories as well as my LinkedIn profile (https://www.linkedin.com/in/amanda-mendes-2aa694197). Also, you can reach me by e-mail (amanda7rg@hotmail.com).
